@@ -1,0 +1,4 @@
+com\mycompany\proxylogin\ILogin.class
+com\mycompany\proxylogin\Client.class
+com\mycompany\proxylogin\User.class
+com\mycompany\proxylogin\UserProxy.class
